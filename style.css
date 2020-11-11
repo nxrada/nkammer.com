@@ -87,3 +87,10 @@ header a {
 #contact {
 	background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('throggsneck.jpg');
 }
+
+ul {
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+	line-height: 1.5;
+}
